@@ -1,6 +1,6 @@
 # Oauth
 # Log in page
-<img src="https://scontent.fbkk14-1.fna.fbcdn.net/v/t1.15752-9/166494568_439788223755837_5546685915881514328_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeE-25AffUTqQwBELuywNbE0k-5PuJQlHfmT7k-4lCUd-aS5XG6loVqnivF0pC8KYD_fT0a6TfC6Q7jMc5ZNBGZV&_nc_ohc=3NPryrcqn8gAX_Xcx3o&_nc_ht=scontent.fbkk14-1.fna&oh=290590d06d4bcaa8cf11552a22a6d4d0&oe=608A5BD5"/>
+![alt text](https://scontent.fbkk14-1.fna.fbcdn.net/v/t1.15752-9/166494568_439788223755837_5546685915881514328_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeE-25AffUTqQwBELuywNbE0k-5PuJQlHfmT7k-4lCUd-aS5XG6loVqnivF0pC8KYD_fT0a6TfC6Q7jMc5ZNBGZV&_nc_ohc=3NPryrcqn8gAX_Xcx3o&_nc_ht=scontent.fbkk14-1.fna&oh=290590d06d4bcaa8cf11552a22a6d4d0&oe=608A5BD5)
 # Google Account
 ![alt text](https://scontent.fbkk14-1.fna.fbcdn.net/v/t1.15752-9/167228162_164274642215464_3222325354747088361_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeFwr4wyL9-ujB4m6ZVUQ8fy1J015RZyj4TUnTXlFnKPhOXr9hOKZAQOw6rr_57ZmG0Vk88iTrpoQQGnT9tgBiwv&_nc_ohc=jzOyNB1uy9kAX8iiB3b&_nc_ht=scontent.fbkk14-1.fna&oh=d9b1e6b3248a35bd245d5b698d5d4589&oe=6086B08D)
 # Username
